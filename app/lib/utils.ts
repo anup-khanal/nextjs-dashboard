@@ -1,4 +1,5 @@
 import { Revenue } from './definitions';
+import Cryptr from 'cryptr';
 
 export const formatCurrency = (amount: number) => {
   return (amount / 100).toLocaleString('en-US', {
@@ -66,4 +67,26 @@ export const generatePagination = (currentPage: number, totalPages: number) => {
     '...',
     totalPages,
   ];
+};
+
+export const encrypt = (text: string) => {
+  const secretKey: string | null = process.env.NEXTAUTH_SECRET
+    ? process.env.NEXTAUTH_SECRET
+    : null;
+  if (secretKey) {
+    const cryptr = new Cryptr(secretKey);
+    return cryptr.encrypt(text);
+  }
+  return null;
+};
+
+export const decrypt = (excryptedString: string) => {
+  const secretKey: string | null = process.env.NEXTAUTH_SECRET
+    ? process.env.NEXTAUTH_SECRET
+    : null;
+  if (secretKey) {
+    const cryptr = new Cryptr(secretKey);
+    return cryptr.decrypt(excryptedString);
+  }
+  return null;
 };

@@ -1,0 +1,68 @@
+{
+  "node": {
+    "5bf163cb6b37abdaaeb0b8d7a2204714079ddac7": {
+      "workers": {
+        "app/dashboard/(overview)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticateKeycloak%22%5D%5D%2C%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/customers/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/(overview)/page": "rsc",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/customers/page": "rsc"
+      }
+    },
+    "62a2b5155d1c02d1c07fe820aed86df48a8ccd05": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticateKeycloak%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticateKeycloak%22%5D%5D%2C%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "79e04f53423abe1c04a234cca460f93809684a38": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticateKeycloak%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticateKeycloak%22%5D%5D%2C%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "a55064408ba57ce3e9e55a6a85ffe7f159d5d31e": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticateKeycloak%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticateKeycloak%22%5D%5D%2C%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "afbf0032cc044f72c98874c5deaad9674a5c7def": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticateKeycloak%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticateKeycloak%22%5D%5D%2C%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
+      }
+    },
+    "e0e3d76554d62b7d8f6e1ca98e3f41be0d53a3f7": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticateKeycloak%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22authenticate%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticateKeycloak%22%5D%5D%2C%5B%22%2FUsers%2Fanup.khanal%2FDesktop%2FPersonalProjects%2Fnextjs-dashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "nDNDUPXj2gcXICeAcosf9i9KTJYP/1EboWkIuD9Tt50="
+}
